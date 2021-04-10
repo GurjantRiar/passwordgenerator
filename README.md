@@ -41,3 +41,17 @@ This textarea will display the users password once it is generated
 #
 
 ![screentshot6](./assets/images/screenshot6.png)
+
+## Contributors
+
+[Gurjant Riar](https://github.com/GurjantRiar/passwordgenerator/)
+
+#
+
+## Built With:
+
+[Visual Studio](https://visualstudio.microsoft.com/)
+
+[CSS](https://www.w3.org/TR/CSS/#css)
+
+[Github Profile](https://github.com/GurjantRiar/passwordgenerator)
