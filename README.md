@@ -44,7 +44,7 @@ This textarea will display the users password once it is generated
 
 ## Contributors
 
-[Gurjant Riar](https://github.com/GurjantRiar/passwordgenerator/)
+[Gurjant Riar](https://github.com/gurjantriar/)
 
 #
 
