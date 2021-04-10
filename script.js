@@ -24,7 +24,7 @@ var get = document.querySelector("#generate");
 
 get.addEventListener("click", function () {
     ps = generatePassword();
-    document.getElementById("password").placeholder = ps;
+    document.getElementById("password").value = ps;
 });
 
 function generatePassword() {
@@ -110,21 +110,12 @@ function generatePassword() {
         password.push(pickChoices);
     }
     var ps = password.join("");
-    UserInput(ps);
+//     UserInput(ps);
     return ps;
 }
 
-function UserInput(ps) {
-    document.getElementById("password").textContent = ps;
+// function UserInput(ps) {
+//     document.getElementById("password").textContent = ps;
 
-}
-
-// var copy = document.querySelector("#copy");
-// copy.addEventListener("click", function () {
-//     copyPassword();
-// });
-// function copyPassword() {
-//     document.getElementById("password").select();
-//     document.execCommand("Copy");
-//     alert("Password copied to clipboard!");
 // }
+
