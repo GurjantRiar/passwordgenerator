@@ -17,3 +17,27 @@ This project emphasizes the use of using Javascript to make dynamic changes to a
 
 A Textarea
 This textarea will display the users password once it is generated
+
+#
+
+![screentshot1](./assets/images/screenshot1.png)
+
+#
+
+![screentshot2](./assets/images/screenshot2.png)
+
+#
+
+![screentshot3](./assets/images/screenshot3.png)
+
+#
+
+![screentshot4](./assets/images/screenshot4.png)
+
+#
+
+![screentshot5](./assets/images/screenshot5.png)
+
+#
+
+![screentshot6](./assets/images/screenshot6.png)
